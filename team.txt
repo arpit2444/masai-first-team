@@ -1,0 +1,7 @@
+Team_name : masai-first-team;
+
+Member1: Arpit;
+Member2: Neeraj;
+Member3: Aditi;
+Member4: Mamta;
+Member5: Sagrika;
